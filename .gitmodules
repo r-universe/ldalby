@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/ldalby/ldalby.r-universe.dev
 	branch = HEAD
+[submodule "dmir"]
+	path = dmir
+	url = https://gitlab.au.dk/ecos/tools/r-pkgs/dmir
