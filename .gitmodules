@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/ldalby/ldalby.r-universe.dev
 	branch = HEAD
+[submodule "camalienr"]
+	path = camalienr
+	url = https://gitlab.au.dk/ecos/biodiversa/camalien/camalienr
 [submodule "dmir"]
 	path = dmir
 	url = https://gitlab.au.dk/ecos/tools/r-pkgs/dmir
