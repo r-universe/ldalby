@@ -8,3 +8,6 @@
 [submodule "dmir"]
 	path = dmir
 	url = https://gitlab.au.dk/ecos/tools/r-pkgs/dmir
+[submodule "naturdata"]
+	path = naturdata
+	url = https://gitlab.au.dk/ecos/tools/r-pkgs/naturdata
