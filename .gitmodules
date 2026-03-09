@@ -8,6 +8,9 @@
 [submodule "dmir"]
 	path = dmir
 	url = https://gitlab.au.dk/ecos/tools/r-pkgs/dmir
+[submodule "ecospgr"]
+	path = ecospgr
+	url = https://gitlab.au.dk/ecos/tools/r-pkgs/ecospgr
 [submodule "erdatools"]
 	path = erdatools
 	url = https://gitlab.au.dk/ecos/tools/r-pkgs/erdatools
